@@ -1,2 +1,3 @@
 # Desafio 1 - Resolução
-Projeto de desafio do modulo base do curso Formação em Tecnologia da Escola DNC
+
+Link da planilha de registro de informação: https://docs.google.com/spreadsheets/d/1q9eKju9eZgFTYjvGLTiyhbYQTceIO7pOxXF29aDgjxc/edit#gid=0
